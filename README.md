@@ -2,7 +2,7 @@
 
 Agentic Multi-Modal Lecture Assistant is an intelligent RAG-based learning ecosystem designed to transform passive video watching into an interactive study session. It doesn't just "search" text; it synchronizes visual keyframes with audio transcripts and uses an autonomous multi-agent team to ensure you actually master the material.
 
-![Webpage]("Screenshot 2026-03-27 184027.png")
+![Webpage Interface](Screenshot%202026-03-27%20184027.png)
 
 ## 🚀 Key Features
 
