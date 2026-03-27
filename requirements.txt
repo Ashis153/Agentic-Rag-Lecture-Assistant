@@ -6,7 +6,7 @@ openai>=1.10.0
 google-generativeai>=0.4.0
 tavily-python
 openai-whisper
-opencv-python
+opencv-python-headless
 Pillow
 setuptools-rust
 chromadb>=0.4.0
